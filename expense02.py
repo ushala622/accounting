@@ -61,11 +61,3 @@ while True:
         category_total(expense_list)
     else:
         exit()
-
-
-#主程式撰寫（收入、支出、分析）、Github 用Linux上傳
-#流程圖繪製（一人）、簡報製作（一人）->等程式做完再來說
-#分工表 （收入、支出-佑真 分析、輸出報表-潔羚）
-#你輸出報表可以考慮使用pandas、matplotlib工具包
-#1/2進度報告. 1/9正式報告
-
